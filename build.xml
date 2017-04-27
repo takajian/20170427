@@ -3,6 +3,7 @@
     <property name="src.dir" value="src/main/java"/>
     <property name="build.dir" value="build"/>
     <property name="lib.dir" value="lib"/>
+	#test test
     
 	<!-- Install Ivy -->
     <property name="ivy.install.version" value="2.1.0" />
